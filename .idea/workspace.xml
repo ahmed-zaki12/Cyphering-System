@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="667a66c4-7ffe-4041-8cb1-31a63b82f49b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cyphering.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaesarCipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CipherGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hill_Cipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MonoalphabeticCipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VigenereCipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vigenere_Auto_Key.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vigenere_Reapting_Key.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2mdFhsIPPPzLr9cHqUuF1GzDUYo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="667a66c4-7ffe-4041-8cb1-31a63b82f49b" name="Changes" comment="" />
+      <created>1727398676307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727398676307</updated>
+      <workItem from="1727398677374" duration="3734000" />
+      <workItem from="1747841817984" duration="48785000" />
+      <workItem from="1747957952435" duration="7054000" />
+      <workItem from="1748017360861" duration="3701000" />
+      <workItem from="1748127965211" duration="2832000" />
+      <workItem from="1748183786693" duration="1431000" />
+      <workItem from="1748657204592" duration="1618000" />
+      <workItem from="1748664628410" duration="11367000" />
+      <workItem from="1748818198623" duration="14463000" />
+      <workItem from="1748918254408" duration="1455000" />
+      <workItem from="1748964332189" duration="2095000" />
+      <workItem from="1749038179372" duration="7365000" />
+      <workItem from="1749347717967" duration="2552000" />
+      <workItem from="1749437215370" duration="608000" />
+      <workItem from="1749621015049" duration="9278000" />
+      <workItem from="1749987132674" duration="21071000" />
+      <workItem from="1750090772289" duration="1040000" />
+      <workItem from="1750160381927" duration="2472000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
